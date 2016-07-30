@@ -1,0 +1,12 @@
+.box {
+	border: 2px solid black;
+	text-align: right;
+	background-color: blue;
+	font-size: 30px
+}
+
+.box2 {
+	border: 2 px solid red;
+	text-align: left;
+	background-color: darkblue;
+}
