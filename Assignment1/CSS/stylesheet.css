@@ -53,6 +53,7 @@ h1 {
 .content {
 	background-color: grey;
 	border: 2px solid black;
+	width: auto;
 }
 
 /* Simple Responsive Framework. */
